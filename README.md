@@ -22,8 +22,6 @@
 
 [E-Portfolio](https://mayurkadampro.github.io) | [LinkedIn](https://www.linkedin.com/in/mayurkadampro) | [YouTube](https://youtube.com/mightyghosthack)  | [Reddit](https://www.reddit.com/user/Mighty_Ghost_Hack/) | [Instagram](https://www.instagram.com/__mayur.kadam__/) | [Blog](https://medium.com/mighty-ghost-hack) | [Visual Profile](https://github.com/mayurkadampro)
 
- 
- ---
 <!--
 **mayurkadampro/mayurkadampro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
