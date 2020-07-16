@@ -11,7 +11,7 @@
 - 💬 Ask me any tech related stuff.
 - ⚡ Fun fact: I love to read more about spirituality, astrology, astronomy, psychology and love to Travel 🏖️ etc.
 
----
+
 <h2 style="text-align:center">Github Stats</h2>
 
 ![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=mayurkadampro&orgs=acme,evilcorp,fsociety)
