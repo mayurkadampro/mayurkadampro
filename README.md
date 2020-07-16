@@ -16,7 +16,6 @@
 
 ![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=mayurkadampro&orgs=acme,evilcorp,fsociety)
 
----
 
 <h2 style="text-align:center">Social Profiles</h2>
 
