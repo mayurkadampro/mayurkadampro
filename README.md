@@ -7,7 +7,7 @@
 - 🌱 I’m currently researching more about new technologies.
 - 👯 I’m looking to collaborate more on my [Youtube - @mightyghosthack](https://youtube.com/mightyghosthack) Channel.
 - 🤔 I’m currently learning more about stock market & options trading etc.
-- 😄 Others called me Developer, Hacker, Youtuber & astrologer as well
+- 😄 Others called me Developer, Hacker, Youtuber & astrologer as well 😉 which sounds more funny 
 - 💬 Ask me any tech related stuff.
 - ⚡ Fun fact: I love to read more about spirituality, astrology, astronomy, psychology and love to Travel 🏖️ etc.
 
