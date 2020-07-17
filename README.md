@@ -9,6 +9,7 @@
 - 🤔 I’m currently learning more about stock market & options trading etc.
 - 😄 Others called me Developer, Hacker, Youtuber & astrologer as well 😉 which sounds more funny 
 - 💬 Ask me any tech related stuff.
+- ⏱️ Meantime love to watch Anime series 💚
 - ⚡ Fun fact: I love to read more about spirituality, astrology, astronomy, psychology and love to Travel 🏖️ etc.
 
 
