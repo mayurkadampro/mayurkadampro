@@ -33,4 +33,13 @@
 
 <h2 style="text-align:center">Where to find me:</h2>
 
-[E-Portfolio](https://mayurkadampro.github.io) | [LinkedIn](https://www.linkedin.com/in/mayurkadampro) | [YouTube](https://youtube.com/mightyghosthack)  | [Reddit](https://www.reddit.com/user/Mighty_Ghost_Hack/) | [Instagram](https://www.instagram.com/__mayur.kadam__/) | [Blog](https://medium.com/mighty-ghost-hack) | [Twitter](https://twitter.com/hackmighty) | [Visual Profile](https://github.com/mayurkadampro)
+<a href="https://www.linkedin.com/in/mayurkadampro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/__mayur.kadam__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/mightyghosthack" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://youtube.com/mightyghosthack" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=Youtube&logoColor=white" alt="Youtube"></a>
+<a href="https://medium.com/mighty-ghost-hack" target="_blank"><img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://twitter.com/hackmighty" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231ED760.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://dev.to/mayurkadampro" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://www.reddit.com/user/Mighty_Ghost_Hack/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23E4405F.svg?&style=flat-square&logo=Reddit&logoColor=white" alt="Reddit"></a>
+<a href="https://mayurkadampro.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=flat-square&logo=Indeed&logoColor=white" alt="Portfolio"></a>
+
