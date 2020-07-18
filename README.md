@@ -20,4 +20,4 @@
 
 <h2 style="text-align:center">Where to find me:</h2>
 
-[E-Portfolio](https://mayurkadampro.github.io) | [LinkedIn](https://www.linkedin.com/in/mayurkadampro) | [YouTube](https://youtube.com/mightyghosthack)  | [Reddit](https://www.reddit.com/user/Mighty_Ghost_Hack/) | [Instagram](https://www.instagram.com/__mayur.kadam__/) | [Blog](https://medium.com/mighty-ghost-hack) | [Visual Profile](https://github.com/mayurkadampro)
+[E-Portfolio](https://mayurkadampro.github.io) | [LinkedIn](https://www.linkedin.com/in/mayurkadampro) | [YouTube](https://youtube.com/mightyghosthack)  | [Reddit](https://www.reddit.com/user/Mighty_Ghost_Hack/) | [Instagram](https://www.instagram.com/__mayur.kadam__/) | [Blog](https://medium.com/mighty-ghost-hack) | [Twitter](https://twitter.com/hackmighty) | [Visual Profile](https://github.com/mayurkadampro)
