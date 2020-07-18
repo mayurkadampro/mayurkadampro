@@ -1,4 +1,5 @@
-### Hi! 🤗 I am *Mayur*. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+### Hi! 🤗 I am *Mayur*. 
+#### hello there fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurkadampro.visitor-badge" alt="visitor badge"/></img>
 ---
 <h2 style="text-align:center">Know myself:</h2>
