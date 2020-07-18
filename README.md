@@ -1,5 +1,5 @@
 ### Hi! 🤗 I am *Mayur*.
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mayurkadampro.visitor-badge" alt="visitor badge"/></img>
 ---
 <h2 style="text-align:center">Know myself:</h2>
 
