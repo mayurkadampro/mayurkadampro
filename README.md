@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mayurkadampro) [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mayurkadampro.visitor-badge)](https://github.com/mayurkadampro) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mayurkadampro)
 ---
-<h2 style="text-align:center">Know myself:</h2>
+<h2 style="text-align:center">Know myself</h2>
 
 - 🔭 I’m currently working on Rupeeseed Technology.
 - 🌱 I’m currently researching more about new technologies.
@@ -13,7 +13,7 @@
 - ⏱️ Meantime love to watch Anime series 💚
 - ⚡ Fun fact: I love to read more about spirituality, astrology, astronomy, psychology and love to Travel 🏖️ etc.
 
-<h2 style="text-align:center">Languages and Tools:</h2>
+<h2 style="text-align:center">Languages and Tools</h2>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -31,12 +31,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
-<h2 style="text-align:center">Github Stats:</h2>
+<h2 style="text-align:center">Github Stats</h2>
 
 ![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=mayurkadampro&orgs=acme,evilcorp,fsociety)
 
 
-<h2 style="text-align:center">Where to find me:</h2>
+<h2 style="text-align:center">Where to find me</h2>
 
 <a href="https://www.linkedin.com/in/mayurkadampro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/__mayur.kadam__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -48,3 +48,16 @@
 <a href="https://www.reddit.com/user/Mighty_Ghost_Hack/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23E4405F.svg?&style=flat-square&logo=Reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://mayurkadampro.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=flat-square&logo=Indeed&logoColor=white" alt="Portfolio"></a>
 
+
+<h2 style="text-align:center">Latest Blog Posts</h2>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/1" alt="Recent Article 1">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/2" alt="Recent Article 2">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/3" alt="Recent Article 3">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/4" alt="Recent Article 4">
+ 
