@@ -33,8 +33,20 @@
 
 <h2 style="text-align:center">Github Stats</h2>
 
-![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=mayurkadampro&orgs=acme,evilcorp,fsociety)
+| <a href="https://github.com/mayurkadampro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurkadampro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mayurkadampro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurkadampro&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
+<h2 style="text-align:center">Top Repositories</h2>
+
+<a href="https://github.com/mayurkadampro/YouTube-SubBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurkadampro&repo=YouTube-SubBot&theme=buefy" />
+</a>
+<a href="https://github.com/mayurkadampro/Advance-Python-Keylogger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurkadampro&repo=Advance-Python-Keylogger&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 <h2 style="text-align:center">Where to find me</h2>
 
@@ -48,16 +60,27 @@
 <a href="https://www.reddit.com/user/Mighty_Ghost_Hack/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23E4405F.svg?&style=flat-square&logo=Reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://mayurkadampro.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=flat-square&logo=Indeed&logoColor=white" alt="Portfolio"></a>
 
+<h2 style="text-align:center">Popular YouTube videos</h2>
 
-<h2 style="text-align:center">Latest Blog Posts</h2>
+<!-- YOUTUBE:START -->
+- [Essential Programming Language For ETHICAL HACKER](https://youtu.be/Qkj3ufwI0jk)
+- [Youtube SubBot PART #1 | #SubBot Python Script | Auto Subscriber Bot](https://youtu.be/xXXryQw6CYc)
+- [Angular + Firebase Cloud Messaging Push Notifications 🔔 Part 1](https://youtu.be/ODE9l1c3ujY)
+- [What is Reverse Shell ? | Reverse #Shell Implementation | Python Script](https://youtu.be/hYb1CxtOgWA)
+- [Angular Environment Build Once Deploy Anywhere](https://youtu.be/Dqb_1t94s3c)
+<!-- YOUTUBE:END -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/0" alt="Recent Article 0">
+➡️ [more videos...](https://youtube.com/mightyghosthack)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/1" alt="Recent Article 1">
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/2" alt="Recent Article 2">
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/3" alt="Recent Article 3">
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@mayurkadampro/4" alt="Recent Article 4">
- 
+
+<h2 style="text-align:center">Latest Medium Posts</h2>
+
+<!-- YOUTUBE:START -->
+- [JS Interview #11 —JavaScript Generator](https://medium.com/mighty-ghost-hack/js-interview-11-javascript-generator-88b163b0ea2f)
+- [JS Interview #9 — JavaScript Currying](https://medium.com/mighty-ghost-hack/js-interview-9-javascript-currying-2e067960ab2e)
+- [Coding Interview #3 — Find the smallest contiguous subarray whose sum is greater than or equal to K](https://medium.com/mighty-ghost-hack/coding-interview-3-find-the-smallest-contiguous-subarray-whose-sum-is-greater-than-or-equal-to-ac72eb368fc8)
+- [Battery Indicator Python Script](https://medium.com/mighty-ghost-hack/battery-indicator-python-script-ee5b1b4cdb95)
+- [YouTube Subscriber Counter Widget](https://medium.com/mighty-ghost-hack/youtube-subscriber-counter-widget-1ca72ad2d846)
+<!-- YOUTUBE:END -->
+
+➡️ [more Posts...](https://medium.com/@mayurkadampro)
