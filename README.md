@@ -30,6 +30,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
+<h2 style="text-align:center">LeetCode Stats</h2>
+
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=mayurkadampro)](https://leetcode.com/mayurkadampro/)
 
 <h2 style="text-align:center">Github Stats</h2>
 
