@@ -39,6 +39,9 @@
 | <a href="https://github.com/mayurkadampro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurkadampro&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mayurkadampro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurkadampro&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayurkadampro&theme=transparent)](https://git.io/streak-stats)
+ 
+
 <h2 style="text-align:center">Top Repositories</h2>
 
 <a href="https://github.com/mayurkadampro/YouTube-SubBot">
