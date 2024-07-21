@@ -1,7 +1,11 @@
-### Hey 🤗 I am *Mayur* <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hey 🤗 I am *Mayur* <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" alt="Coding" width="100" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mayurkadampro) [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mayurkadampro.visitor-badge)](https://github.com/mayurkadampro) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mayurkadampro)
 ---
+
+
+
+
 <h2 style="text-align:center">Know myself</h2>
 
 - 🔭 I’m currently working at Tata Consultancy Services.
