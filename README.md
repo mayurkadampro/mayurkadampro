@@ -88,7 +88,7 @@
 <!-- YOUTUBE:START -->
 - [SOLID Principles in React for Cleaner and Scalable Code](https://medium.com/mighty-ghost-hack/solid-principles-in-react-for-cleaner-and-scalable-code-1695d12e79aa)
 - [Essential Design Patterns for Building Scalable React Applications](https://medium.com/mighty-ghost-hack/essential-design-patterns-for-building-scalable-react-applications-50034e63b426)
-- [Coding Interview #3 — Find the smallest contiguous subarray whose sum is greater than or equal to K](https://medium.com/mighty-ghost-hack/coding-interview-3-find-the-smallest-contiguous-subarray-whose-sum-is-greater-than-or-equal-to-ac72eb368fc8)
+- [Build a Word Search Game to visualize a Depth-First Search Algorithm](https://medium.com/mighty-ghost-hack/build-a-word-search-game-to-visualize-a-depth-first-search-algorithm-1c6bc58d2583)
 - [Battery Indicator Python Script](https://medium.com/mighty-ghost-hack/battery-indicator-python-script-ee5b1b4cdb95)
 - [YouTube Subscriber Counter Widget](https://medium.com/mighty-ghost-hack/youtube-subscriber-counter-widget-1ca72ad2d846)
 <!-- YOUTUBE:END -->
