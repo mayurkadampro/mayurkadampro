@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at EPAM Systems.
 - 🌱 I’m currently researching more about new technologies.
-- 👯 I’m looking to collaborate more on my [Youtube - @mightyghosthack](https://youtube.com/mightyghosthack) & [Youtube - @mightyspawn](https://youtube.com/mightyspawn) Channel.
+- 👯 I’m looking to collaborate more on my [Youtube - @mightyghosthack](https://youtube.com/mightyghosthack) & [Youtube - @mightyspawn](https://www.youtube.com/@mightyspawn) Channel.
 - 🤔 I’m currently learning more about stock market & options trading etc.
 - 😄 Others called me Developer, Hacker, Youtuber & astrologer as well 😉 which sounds more funny 
 - 💬 Ask me any tech related stuff.
