@@ -34,29 +34,28 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-<h2 style="text-align:center">LeetCode Stats</h2>
-
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=mayurkadampro)](https://leetcode.com/mayurkadampro/)
-
 <h2 style="text-align:center">Github Stats</h2>
 
-| <a href="https://github.com/mayurkadampro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurkadampro&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mayurkadampro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurkadampro&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div >
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mayurkadampro&count_private=true&theme=default" alt="Mayur Kadam GitHub Stats" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mayurkadampro&theme=default&hide=html,css" alt="Mayur Kadam Top Languages" height="170"/>
+ &nbsp;&nbsp;
+ <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=mayurkadampro&theme=default&hide=html,css" alt="Mayur Kadam Top Languages" height="170"/> -->
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayurkadampro&theme=default)](https://git.io/streak-stats)
- 
+
+
 
 <h2 style="text-align:center">Top Repositories</h2>
 
-<a href="https://github.com/mayurkadampro/YouTube-SubBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurkadampro&repo=YouTube-SubBot" />
-</a>
-<a href="https://github.com/mayurkadampro/Advance-Python-Keylogger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurkadampro&repo=Advance-Python-Keylogger" />
-</a>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=mayurkadampro&repo=YouTube-SubBot)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=mayurkadampro&repo=Advance-Python-Keylogger)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=mayurkadampro&repo=JavaScript-TypeScript-Interview-Guide)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=mayurkadampro&repo=Hacker-s-Fake-Program)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=mayurkadampro&repo=HTTP-Reverse-Shell)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=mayurkadampro&repo=Face-Recognition-Based-Attendance-System)
 
-<br />
-<br />
 
 <h2 style="text-align:center">Where to find me</h2>
 
